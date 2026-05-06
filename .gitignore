@@ -1,0 +1,6 @@
+*.log
+*.tar.gz
+*.deb
+tmp/
+.cache/
+.DS_Store
